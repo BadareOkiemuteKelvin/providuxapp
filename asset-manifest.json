@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BadareOkiemuteKelvin/providuxapp.git/static/css/main.bbc1614a.css",
+    "main.js": "/BadareOkiemuteKelvin/providuxapp.git/static/js/main.6979d3ee.js",
+    "static/js/787.4aba1280.chunk.js": "/BadareOkiemuteKelvin/providuxapp.git/static/js/787.4aba1280.chunk.js",
+    "static/media/logo.png": "/BadareOkiemuteKelvin/providuxapp.git/static/media/logo.cdd06bf89c50132547c7.png",
+    "index.html": "/BadareOkiemuteKelvin/providuxapp.git/index.html",
+    "main.bbc1614a.css.map": "/BadareOkiemuteKelvin/providuxapp.git/static/css/main.bbc1614a.css.map",
+    "main.6979d3ee.js.map": "/BadareOkiemuteKelvin/providuxapp.git/static/js/main.6979d3ee.js.map",
+    "787.4aba1280.chunk.js.map": "/BadareOkiemuteKelvin/providuxapp.git/static/js/787.4aba1280.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbc1614a.css",
+    "static/js/main.6979d3ee.js"
+  ]
+}
